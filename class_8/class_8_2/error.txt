@@ -1,0 +1,10 @@
+Traceback (most recent call last):
+  File "retrain.py", line 134, in <module>
+    import tensorflow_hub as hub
+  File "H:\Compile\Python\Python36\lib\site-packages\tensorflow_hub\__init__.py", line 29, in <module>
+    from tensorflow_hub.estimator import LatestModuleExporter
+  File "H:\Compile\Python\Python36\lib\site-packages\tensorflow_hub\estimator.py", line 25, in <module>
+    from tensorflow_hub import tf_utils
+  File "H:\Compile\Python\Python36\lib\site-packages\tensorflow_hub\tf_utils.py", line 33, in <module>
+    from tensorflow.python.feature_column import feature_column_v2
+ImportError: cannot import name 'feature_column_v2'

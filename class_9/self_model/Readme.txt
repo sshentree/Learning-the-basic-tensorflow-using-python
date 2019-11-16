@@ -1,0 +1,1 @@
+验证码图片----在 class_9_1/captcha_image/number_image
