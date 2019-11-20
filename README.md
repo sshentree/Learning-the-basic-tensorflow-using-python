@@ -1,5 +1,7 @@
 # TensorFlow 1.0
 
+## [Notes.ipynb](https://github.com/sshentree/Learning-the-basic-tensorflow-using-python/blob/master/Notes.ipynb) 详细说明
+
 ## 基本应用
 
 ### class_1（tensorflow 基本规则）
